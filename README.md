@@ -1,10 +1,3 @@
-=---
-title: Fastify
-description: A Fastify server
-tags:
-  - fastify
----
-
 <h3 align="center">theindiedir api</h3>
 
 ## ✨ Features
